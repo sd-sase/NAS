@@ -1,7 +1,7 @@
 # NAS
 NAS一站式解决方案
 
-![Uploading image.png…]()
+![a1876e9011c65c9d432a395e4cf7d89](https://github.com/sd-sase/NAS/assets/40165707/4a1688dc-12a7-4422-b39b-2dff6c32e46d)
 
 
 海禛云盘NAS优势

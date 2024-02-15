@@ -1,6 +1,9 @@
 # NAS
 NAS一站式解决方案
 
+![Uploading image.png…]()
+
+
 海禛云盘NAS优势
 
 1、一站式支持X86芯片平台、ARM 芯片架构平台
